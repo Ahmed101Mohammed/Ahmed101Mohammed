@@ -3,8 +3,18 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Ahmed101Mohammed?logo=gitHub&style=flat-square)
 &nbsp;
 ![Twitter Follow](https://img.shields.io/twitter/follow/el_3adl?color=blue&logo=twitter&style=flat-square)
+
 # 👋 Hi, I’m Ahmed Mohamed Al3adl.
-I'm a joniure back-end developer, with a sample exprience with front-end.
+I'm a joniure back-end developer, with a sample exprience with a front-end.
+
+## My Stack:
+![JavaScript]()
+&nbsp;
+![Node.js]()
+&nbsp;
+![Express]()
+&nbsp;
+![MongoDB]()
 
 - 👀 I’m interested in wev development
 - 🌱 I’m currently learning React and Redux
