@@ -33,10 +33,10 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 &nbsp;
 ![CSS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/CSS.png)
 
-- 👀 I’m interested in wev development
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on Great projects that can develop my skills as a front-end developer
-- 📫 How to reach me ahmedmohamedal3adl@gmail.com
+## My states:
+![Ahmed Mohemed state's](https://github-readme-stats.vercel.app/api?username=Ahmed101Mohammed&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)
+
+![My continuance](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed101Mohammed&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <!---
 Ahmed101Mohammed/Ahmed101Mohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
