@@ -16,6 +16,11 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 &nbsp;
 ![MongoDB](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/mongoDB.png)
 
+## ✏️ &nbsp; My plog articles:
+- [Arrays](https://araptiq.blogspot.com/2022/08/dataStructure-arrays.html)
+- [Singly Linked List](https://araptiq.blogspot.com/2022/09/dataStructure-singlyLinkedList.html)
+
+
 ## Projects I work on now:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=Alls&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=0bff6e)](https://github.com/Ahmed101Mohammed/Alls)
 
