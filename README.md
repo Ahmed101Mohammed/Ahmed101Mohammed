@@ -16,10 +16,16 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 &nbsp;
 ![MongoDB](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/mongoDB.png)
 
+## Projects I work on now:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=Alls&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=0bff6e)](https://github.com/Ahmed101Mohammed/Alls)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=simple-chat-app&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=0bff6e)](https://github.com/Ahmed101Mohammed/simple-chat-app)
+
 ## Other technologies I use:
 ![HTML](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/HTML.png)
 &nbsp;
 ![CSS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/CSS.png)
+
 - 👀 I’m interested in wev development
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on Great projects that can develop my skills as a front-end developer
