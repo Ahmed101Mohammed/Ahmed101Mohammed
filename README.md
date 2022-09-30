@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Ahmed Mohamed Al3adl
+![GitHub followers](https://img.shields.io/github/followers/Ahmed101Mohammed?logo=github&style=flat-square)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/Ahmed101Mohammed?logo=gitHub&style=flat-square)
+&nbsp;
+![Twitter Follow](https://img.shields.io/twitter/follow/el_3adl?color=blue&logo=twitter&style=flat-square)
+# 👋 Hi, I’m Ahmed Mohamed Al3adl.
+I'm a joniure back-end developer, with a sample exprience with front-end.
+
 - 👀 I’m interested in wev development
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on Great projects that can develop my skills as a front-end developer
