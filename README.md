@@ -16,6 +16,10 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 &nbsp;
 ![MongoDB](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/mongoDB.png)
 
+## Other technologies I use:
+![HTML](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/HTML.png)
+&nbsp;
+![CSS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/CSS.png)
 - 👀 I’m interested in wev development
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on Great projects that can develop my skills as a front-end developer
