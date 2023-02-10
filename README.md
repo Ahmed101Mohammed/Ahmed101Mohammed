@@ -24,7 +24,7 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=progress-tracker&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/progress-tracker)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=scraping-products&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)]((https://github.com/Ahmed101Mohammed/scraping-products))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=scraping-products&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/scraping-products)
 
 ## Projects I work on now:
 NONE
