@@ -20,7 +20,7 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 - [Arrays](https://araptiq.blogspot.com/2022/08/dataStructure-arrays.html)
 - [Singly Linked List](https://araptiq.blogspot.com/2022/09/dataStructure-singlyLinkedList.html)
 - [The programming projects during learning process](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584%25D9%2585%25D8%25B4%25D8%25A7%25D8%25B1%25D9%258A%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D9%258A%25D8%25A9-%25D8%25A3%25D8%25AB%25D9%2586%25D8%25A7%25D8%25A1-%25D9%2585%25D8%25B1%25D8%25AD%25D9%2584%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585-ahmed-mohamed/?trackingId=bN8a8hu9T06wUfEPVd0MrQ%3D%3D)
-
+- [Problem Solving](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584problem-solving-ahmed-mohamed/?trackingId=NBAThTYqTCCsTwGW9jLs0A%3D%3D)
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=chat_rooms_App&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/chat_rooms_App)
 
