@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/el_3adl?color=blue&logo=twitter&style=flat-square)](https://twitter.com/el_3adl)
 
 # 👋 Hi, I’m Ahmed Mohamed Al3adl.
-I'm a joniure back-end developer, with a sample exprience with a front-end.
+I'm a junior back-end developer, with a sample experience with a front-end.
 
 ## My Stack:
 ![JavaScript](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/javaScript.png)
@@ -20,9 +20,10 @@ I'm a joniure back-end developer, with a sample exprience with a front-end.
 - [Arrays](https://araptiq.blogspot.com/2022/08/dataStructure-arrays.html)
 - [Singly Linked List](https://araptiq.blogspot.com/2022/09/dataStructure-singlyLinkedList.html)
 - [The programming projects during learning process](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584%25D9%2585%25D8%25B4%25D8%25A7%25D8%25B1%25D9%258A%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D9%258A%25D8%25A9-%25D8%25A3%25D8%25AB%25D9%2586%25D8%25A7%25D8%25A1-%25D9%2585%25D8%25B1%25D8%25AD%25D9%2584%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585-ahmed-mohamed/?trackingId=bN8a8hu9T06wUfEPVd0MrQ%3D%3D)
-- [Problem Solving](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584problem-solving-ahmed-mohamed/?trackingId=NBAThTYqTCCsTwGW9jLs0A%3D%3D)
+- [Problem-Solving](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584problem-solving-ahmed-mohamed/?trackingId=NBAThTYqTCCsTwGW9jLs0A%3D%3D)
 - [The Recursion](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584recursion-ahmed-mohamed/?trackingId=858aDugeTgO%2BudL0aVTKXQ%3D%3D)
 - [The Thunk](https://www.linkedin.com/pulse/%2525D8%2525A7%2525D9%252584-thunk-ahmed-mohamed%3FtrackingId=mDg51h8gRnK7Ijv5OXE4Nw%253D%253D/?trackingId=mDg51h8gRnK7Ijv5OXE4Nw%3D%3D)
+- [Closure in functional PL](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584-closure-ahmed-mohamed)
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=progress-tracker&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/progress-tracker)
 
