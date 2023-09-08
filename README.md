@@ -24,6 +24,7 @@ I'm a junior back-end developer, with a sample experience with a front-end.
 - [The Recursion](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584recursion-ahmed-mohamed/?trackingId=858aDugeTgO%2BudL0aVTKXQ%3D%3D)
 - [The Thunk](https://www.linkedin.com/pulse/%2525D8%2525A7%2525D9%252584-thunk-ahmed-mohamed%3FtrackingId=mDg51h8gRnK7Ijv5OXE4Nw%253D%253D/?trackingId=mDg51h8gRnK7Ijv5OXE4Nw%3D%3D)
 - [Closure in functional PL](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584-closure-ahmed-mohamed)
+- [Abstraction, Encapsulation, Decomposition, and Generalization in FPL & OOPL](https://www.linkedin.com/pulse/abstraction-encapsulation-decomposition-fpl-oopl-ahmed-mohamed/)
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=progress-tracker&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/progress-tracker)
 
