@@ -5,9 +5,17 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/el_3adl?color=blue&logo=twitter&style=flat-square)](https://twitter.com/el_3adl)
 
 # 👋 Hi, I’m Ahmed Mohamed Al3adl.
-I'm a junior back-end developer, with a sample experience with a front-end.
+I'm a junior Full-Stack web developer.
 
 ## My Stack:
+![HTML](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/HTML.png)
+&nbsp;
+![CSS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/CSS.png)
+&nbsp;
+![SASS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/sass-50.jpg)
+&nbsp;
+![Bootsrtap](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/bootstrap-50.jpg)
+&nbsp;
 ![JavaScript](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/javaScript.png)
 &nbsp;
 ![Node.js](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/nodeJs.png)
@@ -35,10 +43,11 @@ NONE
 
 
 ## Other technologies I use:
-![HTML](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/HTML.png)
+![SQLite](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/sqlite-bg-white-50.jpg)
 &nbsp;
-![CSS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/CSS.png)
-
+![Python](https://raw.githubusercontent.com/Ahmed101Mohammed/Ahmed101Mohammed/main/images/py-50.webp)
+&nbsp;
+![Java](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/java-50.png)
 ## My states:
 ![Ahmed Mohemed state's](https://github-readme-stats.vercel.app/api?username=Ahmed101Mohammed&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)
 
