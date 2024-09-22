@@ -33,14 +33,12 @@ I'm a junior Full-Stack web developer.
 - [Closure in functional PL](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584-closure-ahmed-mohamed)
 - [Abstraction, Encapsulation, Decomposition, and Generalization in FPL & OOPL](https://www.linkedin.com/pulse/abstraction-encapsulation-decomposition-fpl-oopl-ahmed-mohamed/)
 ## My recent projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=progress-tracker&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/progress-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=Jack-compiler&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/Jack-compiler)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=scraping-products&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/scraping-products)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=My-Portfolio&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/My-Portfolio)
 
 ## Projects I work on now:
-NONE
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=al_3adl-blog&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/al_3adl-blog)
 
 ## Other technologies I use:
 ![SQLite](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/sqlite-bg-white-50.jpg)
