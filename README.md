@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed101mohammed" alt="ahmed101mohammed" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Relation DBMS**
 
 - 📫 How to reach me **ahmedmohamedal3adl@gmail.com**
 
