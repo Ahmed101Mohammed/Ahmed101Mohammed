@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed101mohammed" alt="ahmed101mohammed" /></a> </p>
 
-- 🌱 I’m currently learning **Relation DBMS**
+- 🌱 I’m currently learning about **Operating Systems**
 
 - 📫 How to reach me **ahmedmohamedal3adl@gmail.com**
 
@@ -50,12 +50,12 @@
 - [Closure in functional PL](https://www.linkedin.com/pulse/%25D8%25A7%25D9%2584-closure-ahmed-mohamed)
 - [Abstraction, Encapsulation, Decomposition, and Generalization in FPL & OOPL](https://www.linkedin.com/pulse/abstraction-encapsulation-decomposition-fpl-oopl-ahmed-mohamed/)
 
+## Projects I work on now:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=self-made-os&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/al_3adl-blog)
+
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=Jack-compiler&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/Jack-compiler)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=My-Portfolio&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/My-Portfolio)
-
-## Projects I work on now:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=al_3adl-blog&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/al_3adl-blog)
 
 ## My states:
