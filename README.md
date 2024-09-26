@@ -16,30 +16,28 @@
 - 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1v_S2ua43Nv9nzln1x5IYBA__1SXlD43j9EHNLNMU8lg/edit#heading=h.vvcyd1mclw07)
 
 ## My Stack:
-![HTML](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/HTML.png)
-&nbsp;
-![CSS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/CSS.png)
-&nbsp;
-![SASS](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/sass-50.jpg)
-&nbsp;
-![Bootsrtap](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/bootstrap-50.jpg)
-&nbsp;
-![JavaScript](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/javaScript.png)
-&nbsp;
-![Node.js](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/nodeJs.png)
-&nbsp;
-![Express](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/express.png)
-&nbsp;
-![MongoDB](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/mongoDB.png)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ## Tools I use:
-![git](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/git-50.jpg)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ## Other technologies I use:
-![SQLite](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/sqlite-bg-white-50.jpg)
-&nbsp;
-![Python](https://raw.githubusercontent.com/Ahmed101Mohammed/Ahmed101Mohammed/main/images/py-50.webp)
-&nbsp;
-![Java](https://github.com/Ahmed101Mohammed/Ahmed101Mohammed/blob/main/images/java-50.png)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)   
 
 ## ✏️ &nbsp; My articles:
 - [Arrays](https://araptiq.blogspot.com/2022/08/dataStructure-arrays.html)
@@ -59,7 +57,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=al_3adl-blog&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/al_3adl-blog)
 
 ## My states:
-![Ahmed Mohemed state's](https://github-readme-stats.vercel.app/api?username=Ahmed101Mohammed&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)
+![Ahmed Mohemed state's](https://github-readme-stats.vercel.app/api?username=Ahmed101Mohammed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![My contribution status](https://github-contributor-stats.vercel.app/api?username=Ahmed101Mohammed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![My continuance](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed101Mohammed&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
@@ -73,7 +73,7 @@
 </p>
 <!-- Notes:
 - Add Git as a part of your stack.
-- Add GitHub, Draw.io, and Figma as a part of the new title called Tools.
+- Add GitHub, Draw.io, and Figma to the new title called Tools.
 
 -->
 <!---
