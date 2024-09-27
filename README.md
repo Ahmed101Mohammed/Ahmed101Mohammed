@@ -49,7 +49,7 @@
 - [Abstraction, Encapsulation, Decomposition, and Generalization in FPL & OOPL](https://www.linkedin.com/pulse/abstraction-encapsulation-decomposition-fpl-oopl-ahmed-mohamed/)
 
 ## Projects I work on now:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=self-made-os&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/al_3adl-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=self-made-os&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/self-made-os)
 
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=Jack-compiler&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/Jack-compiler)
