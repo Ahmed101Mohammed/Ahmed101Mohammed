@@ -49,12 +49,12 @@
 - [Abstraction, Encapsulation, Decomposition, and Generalization in FPL & OOPL](https://www.linkedin.com/pulse/abstraction-encapsulation-decomposition-fpl-oopl-ahmed-mohamed/)
 
 ## Projects I work on now:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=self-made-os&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/self-made-os)
+- BootLoader (coming soon)
 
 ## My recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=Jack-compiler&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/Jack-compiler)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=al_3adl-blog&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/self-made-os)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed101Mohammed&repo=al_3adl-blog&bg_color=0d1116&title_color=00f6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ahmed101Mohammed/al_3adl-blog)
 
 ## My states:
 ![Ahmed Mohemed state's](https://github-readme-stats.vercel.app/api?username=Ahmed101Mohammed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
